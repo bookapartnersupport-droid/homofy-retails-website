@@ -1,0 +1,1 @@
+HOMOFY RETAILS static website. No Supabase connection is required. Do not change the existing Book A Partner project. Custom domain: homofyretails.com.
